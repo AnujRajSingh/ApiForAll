@@ -1,0 +1,12 @@
+rootProject.name = 'ApiForAll'
+include 'NewsApi'
+include 'platform'
+include 'StockApi'
+include 'CryptoApi'
+include 'EventsApi'
+include 'Controller'
+include 'connector'
+include 'MLApi'
+include 'HealthAndMonitoring'
+include 'TimingsApi'
+
